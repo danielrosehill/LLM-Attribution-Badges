@@ -20,6 +20,8 @@ Here's an example
 ![Coded By GPT 4o](https://img.shields.io/badge/Coded%20By-GPT%204o-blue?style=for-the-badge)
 ```
 
+---
+
 ## Sample badge generation prompt with markdown codefence instruction (for Perplexity AI)
 
 Generate markdown badges using the Shields.io project to attribute content to major LLMs.
@@ -43,6 +45,8 @@ Here's an example
 ```
 
 Enclose your output within a continuous markdown codeblock.
+
+---
 
 ## Badge generation prompt with instruction to add LLMs
 
@@ -68,8 +72,9 @@ Here's an example
 
 Create badges for every major large language model (LLMs).
 
-## Badge generation prompt specifying LLMs
+---
 
+## Badge generation prompt specifying LLMs
 
 Generate markdown badges using the Shields.io project to attribute content to major LLMs.
 
